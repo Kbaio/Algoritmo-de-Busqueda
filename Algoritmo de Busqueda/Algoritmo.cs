@@ -29,7 +29,7 @@ namespace Algoritmo_de_Busqueda
                 }
             }
         }
-
+        /// ALgoritmo alterno
         public void FindRandomNumSecond()
         {
             int searchNum = random.Next(0, maxNums);
